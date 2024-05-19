@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "664905e2f92c434bd22506c0",
+        "user": "6648f1168a7bc13db4a71760",
+        "title": "Community Garden Development",
+        "description": "Help us expand our community garden to provide fresh produce to local residents.",
+        "date": "2024-06-05T00:00:00.000Z",
+        "location": "Local Community Center",
+        "participants": [
+            "6648f1168a7bc13db4a71760",
+            "6648f1168a7bc13db4a71761"
+        ],
+        "createdAt": "2024-05-18T19:47:46.835Z",
+        "updatedAt": "2024-05-18T19:52:29.850Z",
+        "__v": 2
+    },
+    {
+        "_id": "664905e2f92c434bd22506c1",
+        "user": "6648f1168a7bc13db4a71761",
+        "title": "Photography Workshop for Conservation",
+        "description": "A workshop on using photography to raise awareness about conservation.",
+        "date": "2024-06-10T00:00:00.000Z",
+        "location": "Nature Reserve",
+        "participants": [
+            "6648f1168a7bc13db4a71761",
+            "6648f1168a7bc13db4a71763"
+        ],
+        "createdAt": "2024-05-18T20:10:46.835Z",
+        "updatedAt": "2024-05-18T20:15:29.850Z",
+        "__v": 2
+    }
+]

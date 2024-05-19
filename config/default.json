@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://akashtripathi1729:yy3iaRgJUEHnUzqJ@environment-awareness-a.nrxguw4.mongodb.net/?retryWrites=true&w=majority&appName=Environment-Awareness-and-Action-app",
+    "jwtSecret": "secret"
+}

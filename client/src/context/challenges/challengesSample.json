@@ -1,0 +1,25 @@
+[
+    {
+        "_id": "66490bba267ee8e8e6e988e0",
+        "title": "Zero Waste Week",
+        "description": "Try to produce zero waste for a week. Share your journey and inspire others!",
+        "reward": "Eco-friendly prize pack",
+        "participants": [
+            "6648f1168a7bc13db4a71762"
+        ],
+        "completedBy": [
+            {
+                "date": "2024-05-18T20:17:44.571Z",
+                "_id": "66490ce81293f8ddd7484961"
+            },
+            {
+                "user": "6648f1168a7bc13db4a71762",
+                "date": "2024-05-18T20:18:25.300Z",
+                "_id": "66490d111ede158df108f3b6"
+            }
+        ],
+        "createdAt": "2024-05-18T20:12:42.581Z",
+        "updatedAt": "2024-05-18T20:18:25.307Z",
+        "__v": 3
+    }
+]
